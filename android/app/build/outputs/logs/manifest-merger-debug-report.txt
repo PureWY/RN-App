@@ -5,6 +5,7 @@ INJECTED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/Andro
 INJECTED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/wy/Documents/React-Native/RN-App/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.1] /Users/wy/.gradle/caches/transforms-1/files-1.1/react-native-0.59.1.aar/5c7b126622773c39e9799fda64dfbe78/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e1022e9137df7a74e1d4accb80b4959d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/wy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2e240d053840972f0715cbff97ffe175/AndroidManifest.xml:17:1-22:12
@@ -129,6 +130,8 @@ uses-sdk
 INJECTED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/wy/Documents/React-Native/RN-App/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/wy/Documents/React-Native/RN-App/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/wy/Documents/React-Native/RN-App/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.1] /Users/wy/.gradle/caches/transforms-1/files-1.1/react-native-0.59.1.aar/5c7b126622773c39e9799fda64dfbe78/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.1] /Users/wy/.gradle/caches/transforms-1/files-1.1/react-native-0.59.1.aar/5c7b126622773c39e9799fda64dfbe78/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e1022e9137df7a74e1d4accb80b4959d/AndroidManifest.xml:20:5-44
